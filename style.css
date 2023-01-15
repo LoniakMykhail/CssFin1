@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+}
+em{
+    color: blueviolet;
+}
+li{
+    font-weight: bold;
+}
+li em{
+    font-size: 30px;
+}
+a:hover{
+    color: aqua;
+}
+a:visited{
+    color: yellow;
+}
+p{
+    font:  normal 18px 'Roboto', sans-serif;
+}
+.element {
+	font-size: 118px;
+	font-width: normal;
+	font-family: ;
+	/* font: ??? */
